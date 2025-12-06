@@ -2,8 +2,6 @@
 
 ### A CTF idiot who is learning network security.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aipno" alt="aipno" /></a> </p>
-
 - 🔭 I'm currently working on **studying courses at school and occasionally going out to participate in competitions.**
 
 - 🌱 I'm currently learning **WebSecurity**
